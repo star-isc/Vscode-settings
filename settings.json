@@ -1,0 +1,66 @@
+{
+    "editor.renderLineHighlight": "none",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.folding": false,
+    // Don't match brackets
+    "editor.matchBrackets": "never",
+    // Disable glyph margin
+    "editor.glyphMargin": false,
+    // Don't show open editors in the Explorer pane
+    // Disable icons in the tabs
+    "workbench.editor.showIcons": false,
+    // Hide statusbar
+    // Color for Indenticator(for indentation level)
+    "indenticator.color.dark": "rgba(255,255,255,.1)",
+    // Set font family. You can use your custom font, for example 'Fira Code'
+    "editor.fontFamily": "'JetBrains Mono Regular', 'Courier New', monospace",
+    // Set font size
+    "editor.fontSize": 14,
+    // Enable font ligatures
+    "editor.fontLigatures": true,
+    // Enable the cool cursive like font variations
+    "editor.fontVariations": true,
+    // Enables that smooth caret animation, mwah !
+    "editor.cursorBlinking": "phase",
+    // Make the cursor move around the code smoothly
+    "editor.cursorSmoothCaretAnimation": "on",
+    // Adjusts the line height. Also changes the caret width
+    "editor.lineHeight": 26,
+    // Enable line numbesr
+    "editor.lineNumbers": "on",
+    // Enables different color pools for different bracket types, for example {}, [], ()
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    // Enable guides for bracket pairs
+    "editor.guides.bracketPairs": false,
+    
+    // Don't know what this does, lol
+    // Sets the window title 
+    "window.title": "${dirty}${activeEditorShort}",
+    // Sets icon theme
+    // Disable indent guides
+    "workbench.tree.renderIndentGuides": "none",
+    // Icon theme for the window icons and autocomplete suggestions
+    // Enables smooth scrolling, a must have 
+    "editor.smoothScrolling": true,
+    // Disables the close button on tabs, you can enable if you want
+    "workbench.editor.tabCloseButton": "off",
+    // Set syntax theme
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#0000",
+    },
+    "files.autoSave": "afterDelay",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "vscode-pets.petSize": "large",
+    "vscode-pets.throwBallWithMouse": true,
+    "workbench.iconTheme": "file-icons-colourless",
+    "workbench.colorTheme": "Paradise",
+    "workbench.editor.tabActionCloseVisibility": false
+  }
